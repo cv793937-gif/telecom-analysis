@@ -1,5 +1,3 @@
-# telecom-analysis
-Este proyecto realiza un análisis completo del comportamiento de usuarios de ConnectaTel, una empresa de telecomunicaciones. A partir de tres fuentes de datos —perfil de usuarios, uso del servicio y planes contratados— se desarrolla un proceso integral de limpieza, exploración, segmentación y generación de insights accionables para el negocio.
 # 📊 Análisis de Usuarios y Segmentación para ConnectaTel
 
 Este proyecto realiza un análisis integral del comportamiento de los usuarios de ConnectaTel utilizando datos de perfil, uso del servicio y planes contratados. El objetivo es identificar segmentos de clientes, patrones de uso y oportunidades de negocio basadas en datos.
